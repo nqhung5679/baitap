@@ -1,0 +1,23 @@
+/* Tất cả các phần tử số lẻ có nền đỏ/hồng nhạt và phông chữ Verdana, DejaVu Sans, sans-serif */
+.odd {
+    background-color: #FFB6C1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Yếu tố thứ hai: văn bản màu xanh và kích thước phông chữ 36px */
+#second {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+/* Yếu tố thứ ba: cỡ chữ 24px, cùng kiểu cho phần tử số lẻ */
+.third {
+    font-size: 24px;
+}
+
+/* Yếu tố thứ tư: nền xanh lá cây nhạt, cỡ chữ 24px và in đậm */
+#fourth {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
